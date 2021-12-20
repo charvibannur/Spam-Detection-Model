@@ -27,5 +27,5 @@ Some standard procedures that people generally use are:
 First we need to input all the training data into CountVectorizer and the CountVectorizer will keep a dictionary of every word and its respective id and this id will relate to the word count of this word inside this whole training set.
 
 # Naive Bayes Classifier:
-
+ 
 Using Naive Bayes library provided by sklearn library save us a lot of hassle in implementing this algorithm ourselves. We can easily get this done in a few lines of codes.
